@@ -1,5 +1,6 @@
 {
-  
+  "homepage": "https://kh-parveg-hossain.github.io/t",
+
   "name": "vite-project",
   
   "private": true,
@@ -47,6 +48,7 @@
   
     
   "@vitejs/plugin-react": "^4.3.3",
+  "type": "module",
   
     
   "eslint": "^9.13.0",
